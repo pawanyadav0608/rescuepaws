@@ -1,0 +1,6 @@
+{
+  "name": "RescuePaws - Community Animal Rescue",
+  "description": "AI-powered community animal rescue platform where citizens report injured or stray animals, volunteers coordinate pickups, and communities track rescues in real time.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
